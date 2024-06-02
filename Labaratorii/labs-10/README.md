@@ -77,4 +77,10 @@ hello beautiful
 
 Функција-член longestPresentation() - којa ќе го испечати предавањето со најдолго времетраење. (5 поени)
 
-input
+input 
+6
+output:
+longestPresentation and comparison↩
+Conference: CONF001 - 2023-07-01, 3↩
+Longest Presentation: David Johnson - Data Structures and Algorithms, 180↩
+CONF001 has more speakers than CONF002.
