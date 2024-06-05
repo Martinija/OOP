@@ -112,7 +112,7 @@ private:
     int n;
 
     void copy_u(const User&other){
-        strcpy(this->name,name);
+        strcpy(this->name,other.name);
 
         games=new Game*[other.n];
         for (int i = 0; i <other.n ; ++i) {
